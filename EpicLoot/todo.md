@@ -35,8 +35,8 @@
 - [ ] Increase damage vs staggered enemies
 - [ ] Duelist (sword, when off hand is empty, increase parry and block power by a lot)
 - [ ] Opportunist (knife, add backstab damaged to staggered enemies)
-- [X] Throwing (change alterate attack to throw like spear)
-- [ ] Increase stagger duration
+- [ ] Throwing (change alterate attack to throw like s
+- [ ] Increase stagger dura
 - [ ] Blind
 - [ ] Immovable (tower shield, immune to stagger and knockback while blocking)
 - [ ] Glowing
